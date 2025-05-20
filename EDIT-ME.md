@@ -4,3 +4,4 @@ Make a fork and then edit this file to practice git! Go ahead and add a line of 
 This page uses Markdown (a simplified way of formatting text online) so take a look at the [cheatsheet](https://github.com/adam-p/markdown-here/wiki/markdown-cheatsheet) if you have formatting questions.
 
 ---
+Hello world! To get things started, here is a link to the [otter cams](https://www.seattleaquarium.org/animals/live-cams/) at the Seattle Aquarium
