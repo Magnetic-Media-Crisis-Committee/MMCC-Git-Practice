@@ -1,6 +1,8 @@
 # Welcome
 This is a Git repository for MMCC members to practice git editing and making pull requests!
 
+Make a fork of this repository, and then take a shot at editing [this document](https://github.com/Magnetic-Media-Crisis-Committee/MMCC-Git-Practice/blob/main/EDIT-ME.md) and committing it back into the main repository!
+
 
 # Resources
 ## Informational Slide Decks by @ablwr
